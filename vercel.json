@@ -12,6 +12,14 @@
       "dest": "/comparativas/$1"
     },
     {
+      "src": "/finanzas/(.*)", 
+      "dest": "/finanzas/$1"
+    },
+    {
+      "src": "/guias/(.*)",
+      "dest": "/guias/$1"
+    },
+    {
       "src": "/(.*)",
       "dest": "/index.html"
     }

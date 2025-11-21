@@ -4,6 +4,14 @@
     {
       "src": "**/*.html",
       "use": "@vercel/static"
+    },
+    {
+      "src": "**/*.js", 
+      "use": "@vercel/static"
+    },
+    {
+      "src": "**/*.xml",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
@@ -12,12 +20,16 @@
       "dest": "/comparativas/$1"
     },
     {
-      "src": "/finanzas/(.*)", 
+      "src": "/finanzas/(.*)",
       "dest": "/finanzas/$1"
     },
     {
       "src": "/guias/(.*)",
       "dest": "/guias/$1"
+    },
+    {
+      "src": "/(sitemap.xml|analytics.js)",
+      "dest": "/$1"
     },
     {
       "src": "/(.*)",

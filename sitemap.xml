@@ -2,32 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.medusa-glow.com/</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+  <!-- Artículos originales -->
   <url>
     <loc>https://www.medusa-glow.com/comparativas/trello-asana-clickup.html</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-01-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.medusa-glow.com/comparativas/toggl-rescuetime.html</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-01-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.medusa-glow.com/finanzas/freshbooks-quickbooks.html</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-01-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.medusa-glow.com/guias/notion-freelancers.html</loc>
-    <lastmod>2024-01-15</lastmod>
+    <lastmod>2024-01-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <!-- Nuevos artículos creados hoy -->
+  <url>
+    <loc>https://www.medusa-glow.com/comparativas/clickup-vs-notion.html</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.medusa-glow.com/herramientas/alternativas-trello-gratis.html</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.medusa-glow.com/tutoriales/toggl-google-calendar.html</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.medusa-glow.com/guias/plantillas-notion-freelancers.html</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.medusa-glow.com/finanzas/mejor-software-facturacion-2024.html</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- Páginas legales -->
+  <url>
+    <loc>https://www.medusa-glow.com/legal/privacidad.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.medusa-glow.com/legal/afiliados.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
 </urlset>

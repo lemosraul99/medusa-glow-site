@@ -12,6 +12,10 @@
     {
       "src": "**/*.xml",
       "use": "@vercel/static"
+    },
+    {
+      "src": "**/*.txt",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
@@ -28,11 +32,19 @@
       "dest": "/guias/$1"
     },
     {
+      "src": "/tutoriales/(.*)",
+      "dest": "/tutoriales/$1"
+    },
+    {
+      "src": "/herramientas/(.*)",
+      "dest": "/herramientas/$1"
+    },
+    {
       "src": "/legal/(.*)",
       "dest": "/legal/$1"
     },
     {
-      "src": "/(sitemap.xml|analytics.js)",
+      "src": "/(ads.txt|sitemap.xml|robots.txt|analytics.js|adsense-loader.js)",
       "dest": "/$1"
     },
     {
